@@ -1,5 +1,5 @@
 # Developer Toolbox
-My developer toolbox
+My developer toolbox of commonly used (free) tools for website development.
 
 ## Front End
 
