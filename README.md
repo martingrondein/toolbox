@@ -33,6 +33,8 @@ Build responsive, mobile-first projects on the web with the world's most popular
 A modern responsive front-end framework based on Material Design
 [URL](https://materializecss.com)
 
+---
+
 ### Mobile Frameworks
 
 #### Framework 7
