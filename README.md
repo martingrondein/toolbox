@@ -15,14 +15,35 @@ Base HTML stuff for hitting the floor running.
 
 Componentes for aiding in UX / UI features.
 
-+ #### Popper.js
-   - Awesome looking tooltips / popovers. Easily position tooltips, popovers or anything just just a line of code.
++ #### Popper.js: Awesome looking tooltips / popovers 
+   - Easily position tooltips, popovers or anything just just a line of code.
        - [Website](https://popper.js.org)
 
-+ #### SweetAlert2
-   - Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
++ #### SweetAlert2: Beautiful popup boxes
+   - A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
        - [Website](https://sweetalert2.github.io)
 
++ #### GSAP (GreenSock Animation Platform): High-performance animations
+   - Ultra high-performance, professional-grade animation for the modern web. GSAP is a JavaScript library for creating high-performance animations that work in every major browser.
+       - [Website](https://github.com/greensock/GreenSock-JS/)       
+       
++ #### D3.js: Bring data to life using SVG, Canvas and HTML
+   - A JavaScript library for visualizing data using web standards. 3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
+       - [Website](https://github.com/d3/d3)
+
+### // Javascript Libraries
+
++ #### jQuery: Fast, small, and feature-rich JS library
+   - Makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+       - [Website](https://jquery.com/download/)
+
++ #### Lodash:  JS Modularity, performance & extras
+    - A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
+       - [Website](https://lodash.com/)
+
++ #### Moment.js:  Date and Time manipulation
+    - Parse, validate, manipulate, and display dates and times.
+       - [Website](https://momentjs.com/)       
 
 ### // Front-end Frameworks
 
