@@ -1,16 +1,16 @@
 # Developer Toolbox
 My developer toolbox of commonly used (free) tools for website development.
 
-## Front End
+## FRONT-END DEVELOPMENT
 
-### Base HTML
+### // Base HTML
 
 + #### HTML5 Boilerplate
    - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
        - [Website](https://html5boilerplate.com)
 
 
-### UI / UX
+### // UI / UX
 
 + #### Popper.js
    - Awesome looking tooltips / popovers. Easily position tooltips, popovers or anything just just a line of code.
@@ -21,7 +21,7 @@ My developer toolbox of commonly used (free) tools for website development.
        - [Website](https://sweetalert2.github.io)
 
 
-### Front-end Frameworks
+### // Front-end Frameworks
 
 + #### Bootstrap
    - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
@@ -32,7 +32,7 @@ My developer toolbox of commonly used (free) tools for website development.
        - [Website](https://materializecss.com)
 
 
-### Mobile Frameworks
+### // Mobile Frameworks
 
 + #### Framework 7
    - Full featured HTML framework for building iOS & Android apps
@@ -44,9 +44,9 @@ My developer toolbox of commonly used (free) tools for website development.
 
 ---
 
-## Back End
+## BACK-END DEVELOPMENT
 
-### PHP Frameworks
+### //  PHP Frameworks
 
 + #### Drupal
    - Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need.
@@ -60,7 +60,7 @@ My developer toolbox of commonly used (free) tools for website development.
    - Use the software that powers over 31% of the web.
        - [Website](https://wordpress.org/download)
 
-### PHP Libraries
+### //PHP Libraries
 
 + #### Carbon - DateTime Library
    - Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
