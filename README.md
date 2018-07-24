@@ -26,6 +26,8 @@ Componentes for aiding in UX / UI features.
 
 ### // Front-end Frameworks
 
+Responsive front-end frameworks for the modern web.
+
 + #### Bootstrap
    - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
        - [Website](https://getbootstrap.com)
@@ -37,6 +39,8 @@ Componentes for aiding in UX / UI features.
 
 ### // Mobile Frameworks
 
+Mobile frameworks ideal for hybrid mobile Android / iOS apps.
+
 + #### Framework 7
    - Full featured HTML framework for building iOS & Android apps
        - [Website](https://framework7.io)
@@ -47,15 +51,23 @@ Componentes for aiding in UX / UI features.
        
 ### // Emails
 
+Email template boilerplates for modern email clients.
+
 + ### Email Boilerplate
     - The email boilerplate for sending out nicely formatted messages. 
         - [Website](https://github.com/seanpowell/Email-Boilerplate)
+
++ ### Foundation for Emails
+    - Responsive Email Templates built by Zurb.
+        - [Website](https://foundation.zurb.com/emails/email-templates.html)
 
 ---
 
 ## BACK-END DEVELOPMENT
 
 ### //  PHP Frameworks
+
+Open source PHP Frameworks.
 
 + #### Drupal
    - Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need.
@@ -70,6 +82,8 @@ Componentes for aiding in UX / UI features.
        - [Website](https://wordpress.org/download)
 
 ### // PHP Libraries
+
+PHP Libraries to assist in development.
 
 + #### Carbon - DateTime Library
    - Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
@@ -88,6 +102,9 @@ Componentes for aiding in UX / UI features.
        - [Website](https://github.com/tecnickcom/tcpdf)
 
 ### // Wordpress Development
+
+Wordpress development boilerplates, libraries and tools.
+
 + ### WordPress Plugin Boilerplate
     - A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
        - [Website](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
