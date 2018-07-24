@@ -70,6 +70,10 @@ My developer toolbox of commonly used (free) tools for website development.
    - Goutte is a library for scraping websites and extracting data. It provides a nice API that makes it easy to select specific elements from the remote pages.
        - [Website](https://github.com/FriendsOfPHP/Goutte)       
        
-+ #### Validation - Input Validation Engine
++ #### Validation - Input Validation Library
     - The most awesome validation engine ever created for PHP.
-       - [Website](https://github.com/Respect/Validation)       
+       - [Website](https://github.com/Respect/Validation)
+       
++ #### TCPDF - PDF Generation Library
+    - PHP library for generating PDF documents on-the-fly.
+       - [Website](https://github.com/tecnickcom/tcpdf)
