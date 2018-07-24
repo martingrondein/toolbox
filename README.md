@@ -13,7 +13,7 @@ Base HTML stuff for hitting the floor running.
 
 ### // UI / UX
 
-Componentes for aiding in UX / UI features.
+Components for aiding in UX / UI features.
 
 + #### Popper.js: Awesome looking tooltips / popovers 
    - Easily position tooltips, popovers or anything just just a line of code.
@@ -22,6 +22,10 @@ Componentes for aiding in UX / UI features.
 + #### SweetAlert2: Beautiful popup boxes
    - A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
        - [Website](https://sweetalert2.github.io)
+
++ #### Fullpage.js: Create full screen web pages fast and simple 
+   -  A simple and easy to use library to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
+       - [Website](https://github.com/alvarotrigo/fullpage.js)
 
 + #### GSAP (GreenSock Animation Platform): High-performance animations
    - Ultra high-performance, professional-grade animation for the modern web. GSAP is a JavaScript library for creating high-performance animations that work in every major browser.
@@ -56,7 +60,6 @@ Responsive front-end frameworks for the modern web.
 + #### Materialize
    - A modern responsive front-end framework based on Material Design
        - [Website](https://materializecss.com)
-
 
 ### // Mobile Frameworks
 
