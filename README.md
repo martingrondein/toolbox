@@ -23,12 +23,23 @@ Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacm
 
 ---
 
+### Front-end Frameworks
+
+#### Bootstrap
+Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+[URL](https://getbootstrap.com)
+
+#### Materialize
+A modern responsive front-end framework based on Material Design
+[URL](https://materializecss.com)
+
 ### Mobile Frameworks
 
 #### Framework 7
-
+Full featured HTML framework for building iOS & Android apps
+[URL](https://framework7.io)
 
 #### Ionic
-
-
+Build amazing apps in one codebase, for any platform, with the web.
+[URL](https://ionicframework.com)
 
