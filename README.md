@@ -7,7 +7,7 @@ My developer toolbox of commonly used (free) tools for website development.
 
 + #### HTML5 Boilerplate
    - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
-    - [URL](https://html5boilerplate.com)
+   -- [URL](https://html5boilerplate.com)
 
 ---
 
