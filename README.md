@@ -9,7 +9,7 @@ My developer toolbox
 HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css.
 [URL](https://html5boilerplate.com)
 
--
+--
 
 ### UI / UX
 
@@ -21,7 +21,7 @@ Awesome looking tooltips / popovers. Easily position tooltips, popovers or anyth
 Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
 [URL](https://sweetalert2.github.io)
 
--
+--
 
 ### Mobile Frameworks
 
