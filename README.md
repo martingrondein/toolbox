@@ -9,7 +9,6 @@ My developer toolbox of commonly used (free) tools for website development.
    - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
        - [Website](https://html5boilerplate.com)
 
----
 
 ### UI / UX
 
@@ -21,7 +20,6 @@ My developer toolbox of commonly used (free) tools for website development.
    - Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
        - [Website](https://sweetalert2.github.io)
 
----
 
 ### Front-end Frameworks
 
@@ -33,7 +31,6 @@ My developer toolbox of commonly used (free) tools for website development.
    - A modern responsive front-end framework based on Material Design
        - [Website](https://materializecss.com)
 
----
 
 ### Mobile Frameworks
 
@@ -62,3 +59,17 @@ My developer toolbox of commonly used (free) tools for website development.
 + #### Wordpress
    - Use the software that powers over 31% of the web.
        - [Website](https://wordpress.org/download)
+
+### PHP Libraries
+
++ #### Carbon - DateTime Library
+   - Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
+       - [Website](https://github.com/briannesbitt/Carbon)
+
++ #### Goutte - Web Scraping Library
+   - Goutte is a library for scraping websites and extracting data. It provides a nice API that makes it easy to select specific elements from the remote pages.
+       - [Website](https://github.com/FriendsOfPHP/Goutte)       
+       
++ #### Validation - Input Validation Engine
+    - The most awesome validation engine ever created for PHP.
+       - [Website](https://github.com/Respect/Validation)       
