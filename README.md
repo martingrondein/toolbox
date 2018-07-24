@@ -41,6 +41,12 @@ My developer toolbox of commonly used (free) tools for website development.
 + #### Ionic
    - Build amazing apps in one codebase, for any platform, with the web.
        - [Website](https://ionicframework.com)
+       
+### // Emails
+
++ ### Email Boilerplate
+    - The email boilerplate for sending out nicely formatted messages. 
+        - [Website](https://github.com/seanpowell/Email-Boilerplate)
 
 ---
 
@@ -77,3 +83,13 @@ My developer toolbox of commonly used (free) tools for website development.
 + #### TCPDF - PDF Generation Library
     - PHP library for generating PDF documents on-the-fly.
        - [Website](https://github.com/tecnickcom/tcpdf)
+
+### // Wordpress Development
++ ### WordPress Plugin Boilerplate
+    - A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
+        -[Website](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+
++ ### WordPress Boilerplate Theme (HTML 5 Blank)
+    - Powerful shell for rapidly building your WordPress projects
+        -[Website](https://github.com/html5blank/html5blank)
+
