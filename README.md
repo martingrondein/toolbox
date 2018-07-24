@@ -87,9 +87,9 @@ My developer toolbox of commonly used (free) tools for website development.
 ### // Wordpress Development
 + ### WordPress Plugin Boilerplate
     - A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
-        -[Website](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+       - [Website](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
 
 + ### WordPress Boilerplate Theme (HTML 5 Blank)
     - Powerful shell for rapidly building your WordPress projects
-        -[Website](https://github.com/html5blank/html5blank)
+        - [Website](https://github.com/html5blank/html5blank)
 
