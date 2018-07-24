@@ -5,12 +5,15 @@ My developer toolbox of commonly used (free) tools for website development.
 
 ### // Base HTML
 
+Base HTML stuff for hitting the floor running.
+
 + #### HTML5 Boilerplate
    - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
        - [Website](https://html5boilerplate.com)
 
-
 ### // UI / UX
+
+Componentes for aiding in UX / UI features.
 
 + #### Popper.js
    - Awesome looking tooltips / popovers. Easily position tooltips, popovers or anything just just a line of code.
@@ -66,7 +69,7 @@ My developer toolbox of commonly used (free) tools for website development.
    - Use the software that powers over 31% of the web.
        - [Website](https://wordpress.org/download)
 
-### //PHP Libraries
+### // PHP Libraries
 
 + #### Carbon - DateTime Library
    - Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
