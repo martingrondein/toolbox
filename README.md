@@ -23,6 +23,10 @@ Components for aiding in UX / UI features.
    - A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
        - [Website](https://sweetalert2.github.io)
 
++ #### bxSlider: Dead simple slider
+   - Add a slider to any webpage.
+      - [Website](https://github.com/stevenwanderski/bxslider-4
+
 + #### Fullpage.js: Create full screen web pages fast and simple 
    -  A simple and easy to use library to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
        - [Website](https://github.com/alvarotrigo/fullpage.js)
