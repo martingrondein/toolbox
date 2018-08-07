@@ -1,4 +1,4 @@
-# Web Developer Toolbox
+# Web Development Toolbox
 My toolbox of commonly used (free) developer tools for web development.
 
 ## GENERAL
@@ -106,6 +106,7 @@ Email template boilerplates for modern email clients.
 
 + [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate): The email boilerplate for sending out nicely formatted messages.
 + [Foundation for Emails](https://foundation.zurb.com/emails/email-templates.html): Responsive Email Templates built by Zurb.
++ [Bulletproof email buttons](https://buttons.cm/): Generate solid buttons for email using progressively enhanced VML and CSS.
 
 ---
 
