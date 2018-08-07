@@ -7,7 +7,7 @@ General guides and resources.
 
 ### // Coding standards and Style Guides
 
-+ ####: HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling
++ #### HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling
    - HTML & CSS coding standards for unified maintainability.
      - [Website](https://google.github.io/styleguide/htmlcssguide.html)
 
