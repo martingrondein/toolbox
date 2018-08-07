@@ -3,9 +3,9 @@ My developer toolbox of commonly used (free) tools for website development.
 
 ## GENERAL
 
-General guides and resources.
-
 ### // Coding standards and Style Guides
+
+General guides and resources for code styling.
 
 + #### HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling
    - HTML & CSS coding standards for unified maintainability.
