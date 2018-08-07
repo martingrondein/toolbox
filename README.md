@@ -1,9 +1,9 @@
 # Developer Toolbox
-My toolbox of commonly used (free) developer tools for website development.
+My toolbox of commonly used (free) developer tools for web development.
 
 ## GENERAL
 
-### Coding standards and Style Guides
+### Coding Standards and Style Guides
 
 General guides and resources for code styling.
 
@@ -19,7 +19,7 @@ Base HTML stuff for hitting the floor running.
 
 + [HTML5 Boilerplate](https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
 
-### UI / UX
+### UI / UX Libraries
 
 Components for aiding in UX / UI features.
 
@@ -32,9 +32,11 @@ Components for aiding in UX / UI features.
 
 ### Javascript Libraries
 
+Common Javascript libraries to make your life easier.
+
++ [Moment.js](https://momentjs.com/):  Date and Time manipulation. Parse, validate, manipulate, and display dates and times.
 + [jQuery](https://jquery.com/download/): Fast, small, and feature-rich JS library. Makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 + [Lodash](https://lodash.com/):  JS Modularity, performance & extras. A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
-+ [Moment.js](https://momentjs.com/):  Date and Time manipulation. Parse, validate, manipulate, and display dates and times.
 
 ### Front-end Frameworks
 
