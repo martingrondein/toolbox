@@ -11,6 +11,52 @@ General guides and resources for code styling.
 + [PSR-2](https://www.php-fig.org/psr/psr-2/): PHP coding standards for unified maintainability and readability.
 + [JavaScript Style Guide by Google](https://google.github.io/styleguide/jsguide.html): JS coding standards for a unified maintanability and readability.
 
+### Coding Fonts
+
+Fonts for your IDE/Editor
+
++ [SpaceMono](https://fonts.google.com/specimen/Space%20Mono): Space Mono is an original fixed-width type family designed by Colophon Foundry for Google Design.
++ [Mononoki](http://madmalik.github.io/mononoki/): A font for programming and code review.
++ [Source Code Pro](https://github.com/adobe-fonts/source-code-pro): Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
++ [FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
+
+### Git
+
+Guides for Git
+
++ [gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
++ [Oh shit, git!](https://ohshitgit.com/): Git is hard: screwing up is easy, and figuring out how to fix your mistakes is impossible. 
++ [Git Documentation](https://git-scm.com/docs): Git quick reference guide.
++ [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf): PDF Cheatsheet
++ [Git Visual Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;): Visual Git Cheatsheet
+
+### Component Generators
+
+Quickly generator components to copy and paste into your code
+
++ [Social Media Sharing Buttons](http://sharingbuttons.io/): Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
+
+### Image Compression
+
+Optimize your image assets
+
++ [ImageOptim](https://imageoptim.com/versions.html): Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality
++ [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI):  ImageOptim-CLI exists because the current benchmarks suggest that ImageOptim, ImageAlpha and JPEGmini currently outperform those alternatives over lossless and lossy optimizations. A self-contained executable binary, you don't need Node.js installed to use ImageOptim-CLI.
++ [FileOptimzer](https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/): Smart detection of file types by analyzing its contents, no matter of what extension they have.
+
+### Code Editors
+
+What to code in
+
++ [Visual Studio Code](https://code.visualstudio.com/): Reliable code editor that is free, open source and runs everywhere.
++ [Notepad++](https://notepad-plus-plus.org/): A good Notepad replacement.
+
+### Documentation
+
+Always document. Always.
+
++ [Atomic Docs](http://atomicdocs.io/): A style guide generator and component manager. Generate beautiful docs from your code.
+
 ## FRONT-END DEVELOPMENT
 
 ### Base HTML Templates
@@ -18,11 +64,13 @@ General guides and resources for code styling.
 Base HTML stuff for hitting the floor running.
 
 + [HTML5 Boilerplate](https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
++ [HEAD](https://github.com/joshbuchea/HEAD): A list of everything that *could* go in the <head> of your document
 
 ### UI / UX Libraries
 
 Components for aiding in UX / UI features.
 
++ [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js/): Full featured JavaScript image & video gallery. No dependencies
 + [Popper.js](https://popper.js.org): Awesome looking tooltips / popovers. Easily position tooltips, popovers or anything just just a line of code.
 + [SweetAlert2](https://sweetalert2.github.io): Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
 + [bxSlider](https://github.com/stevenwanderski/bxslider-4): Add a lightweight flexable slider.
