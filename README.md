@@ -83,5 +83,4 @@ PHP Libraries to assist in development.
 Wordpress development boilerplates, libraries and tools.
 
 + [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
-
-+ [WordPress Boilerplate Theme (HTML 5 Blank](https://github.com/html5blank/html5blank): Powerful shell for rapidly building your WordPress projects
++ [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful shell for rapidly building your WordPress projects
