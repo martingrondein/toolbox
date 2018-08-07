@@ -65,6 +65,9 @@ Base HTML stuff for hitting the floor running.
 
 + [HTML5 Boilerplate](https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
 + [HEAD](https://github.com/joshbuchea/HEAD): A list of everything that *could* go in the <head> of your document
+       
+### Other Templates
++ [Start Bootstrap](https://github.com/BlackrockDigital/startbootstrap): A library of free and open source Bootstrap themes and templates 
 
 ### UI / UX Libraries
 
@@ -106,7 +109,9 @@ Email template boilerplates for modern email clients.
 
 + [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate): The email boilerplate for sending out nicely formatted messages.
 + [Foundation for Emails](https://foundation.zurb.com/emails/email-templates.html): Responsive Email Templates built by Zurb.
++ [Responsive Email Template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template.
 + [Bulletproof email buttons](https://buttons.cm/): Generate solid buttons for email using progressively enhanced VML and CSS.
++ [Transactional Email Templates](https://github.com/mailgun/transactional-email-templates): Responsive transactional HTML email templates
 
 ---
 
@@ -134,4 +139,4 @@ PHP Libraries to assist in development.
 Wordpress development boilerplates, libraries and tools.
 
 + [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
-+ [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful shell for rapidly building your WordPress projects
++ [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful template for rapidly building your WordPress projects
