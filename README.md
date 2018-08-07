@@ -17,7 +17,7 @@ General guides and resources for code styling.
 
 Base HTML stuff for hitting the floor running.
 
-+ [HTML5 Boilerplate]((https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
++ [HTML5 Boilerplate](https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
 
 ### UI / UX
 
@@ -36,91 +36,52 @@ Components for aiding in UX / UI features.
 + [Lodash](https://lodash.com/):  JS Modularity, performance & extras. A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
 + [Moment.js](https://momentjs.com/):  Date and Time manipulation. Parse, validate, manipulate, and display dates and times.
 
-### // Front-end Frameworks
+### Front-end Frameworks
 
 Responsive front-end frameworks for the modern web.
 
-+ #### Bootstrap
-   - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
-       - [Website](https://getbootstrap.com)
++ [Bootstrap](https://getbootstrap.com): Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
++ [Materialize](https://materializecss.com): A modern responsive front-end framework based on Material Design
 
-+ #### Materialize
-   - A modern responsive front-end framework based on Material Design
-       - [Website](https://materializecss.com)
-
-### // Mobile Frameworks
+### Mobile Frameworks
 
 Mobile frameworks ideal for hybrid mobile Android / iOS apps.
 
-+ #### Framework 7
-   - Full featured HTML framework for building iOS & Android apps
-       - [Website](https://framework7.io)
-
-+ #### Ionic
-   - Build amazing apps in one codebase, for any platform, with the web.
-       - [Website](https://ionicframework.com)
++ [Framework 7](https://framework7.io): Full featured HTML framework for building iOS & Android apps
++ [Ionic](https://ionicframework.com): Build amazing apps in one codebase, for any platform, with the web.
        
-### // Emails
+### Emails
 
 Email template boilerplates for modern email clients.
 
-+ ### Email Boilerplate
-    - The email boilerplate for sending out nicely formatted messages. 
-        - [Website](https://github.com/seanpowell/Email-Boilerplate)
-
-+ ### Foundation for Emails
-    - Responsive Email Templates built by Zurb.
-        - [Website](https://foundation.zurb.com/emails/email-templates.html)
++ [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate): The email boilerplate for sending out nicely formatted messages.
++ [Foundation for Emails](https://foundation.zurb.com/emails/email-templates.html): Responsive Email Templates built by Zurb.
 
 ---
 
 ## BACK-END DEVELOPMENT
 
-### //  PHP Frameworks
+###  PHP Frameworks
 
 Open source PHP Frameworks.
 
-+ #### Drupal
-   - Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need.
-       - [Website](https://www.drupal.org/download)
++ [Drupal](https://www.drupal.org/download): Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need.
++ [Joomla](https://downloads.joomla.org): Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
++ [Wordpress](https://wordpress.org/download): Use the software that powers over 31% of the web.
 
-+ #### Joomla
-   - Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications
-       - [Website](https://downloads.joomla.org)
-
-+ #### Wordpress
-   - Use the software that powers over 31% of the web.
-       - [Website](https://wordpress.org/download)
-
-### // PHP Libraries
+### PHP Libraries
 
 PHP Libraries to assist in development.
 
-+ #### Carbon - DateTime Library
-   - Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
-       - [Website](https://github.com/briannesbitt/Carbon)
++ [Carbon](https://github.com/briannesbitt/Carbon): DateTime Library. Carbon is a simple API extension for the DateTime. It enhances the class with some useful methods for working with dates and time.
++ [Goutte](https://github.com/FriendsOfPHP/Goutte): Web Scraping Library. Goutte is a library for scraping websites and extracting data. It provides a nice API that makes it easy to select specific elements from the remote pages.       
++ [Validation](https://github.com/Respect/Validation): Input Validation Library. The most awesome validation engine ever created for PHP.
++ [TCPDF](https://github.com/tecnickcom/tcpdf): PDF Generation Library. PHP library for generating PDF documents on-the-fly.
 
-+ #### Goutte - Web Scraping Library
-   - Goutte is a library for scraping websites and extracting data. It provides a nice API that makes it easy to select specific elements from the remote pages.
-       - [Website](https://github.com/FriendsOfPHP/Goutte)       
-       
-+ #### Validation - Input Validation Library
-    - The most awesome validation engine ever created for PHP.
-       - [Website](https://github.com/Respect/Validation)
-       
-+ #### TCPDF - PDF Generation Library
-    - PHP library for generating PDF documents on-the-fly.
-       - [Website](https://github.com/tecnickcom/tcpdf)
-
-### // Wordpress Development
+### Wordpress Development
 
 Wordpress development boilerplates, libraries and tools.
 
-+ ### WordPress Plugin Boilerplate
-    - A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
-       - [Website](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
++ [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
-+ ### WordPress Boilerplate Theme (HTML 5 Blank)
-    - Powerful shell for rapidly building your WordPress projects
-        - [Website](https://github.com/html5blank/html5blank)
-
++ [WordPress Boilerplate Theme (HTML 5 Blank](https://github.com/html5blank/html5blank): Powerful shell for rapidly building your WordPress projects
