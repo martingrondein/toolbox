@@ -8,6 +8,7 @@ My developer toolbox of commonly used (free) tools for website development.
 General guides and resources for code styling.
 
 + [HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling](https://google.github.io/styleguide/htmlcssguide.html)
+HTML & CSS coding standards for unified maintainability.
 
 + #### PSR-2: PHP Coding Standards
    - PHP coding standards for unified maintainability.
