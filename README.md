@@ -1,5 +1,5 @@
 # Developer Toolbox
-My developer toolbox of commonly used (free) tools for website development.
+My toolbox of commonly used (free) developer tools for website development.
 
 ## GENERAL
 
@@ -13,55 +13,28 @@ General guides and resources for code styling.
 
 ## FRONT-END DEVELOPMENT
 
-### // Base HTML
+### Base HTML Templates
 
 Base HTML stuff for hitting the floor running.
 
-+ #### HTML5 Boilerplate
-   - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
-       - [Website](https://html5boilerplate.com)
++ [HTML5 Boilerplate]((https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
 
-### // UI / UX
+### UI / UX
 
 Components for aiding in UX / UI features.
 
-+ #### Popper.js: Awesome looking tooltips / popovers 
-   - Easily position tooltips, popovers or anything just just a line of code.
-       - [Website](https://popper.js.org)
++ [Popper.js](https://popper.js.org): Awesome looking tooltips / popovers. Easily position tooltips, popovers or anything just just a line of code.
++ [SweetAlert2](https://sweetalert2.github.io): Beautiful popup boxes. A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
++ [bxSlider](https://github.com/stevenwanderski/bxslider-4): Add a lightweight flexable slider.
++ [Fullpage.js](https://github.com/alvarotrigo/fullpage.js): Create full screen web pages fast and simple. A simple and easy to use library to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
++ [GSAP (GreenSock Animation Platform)](https://github.com/greensock/GreenSock-JS/): High-performance animations. Ultra high-performance, professional-grade animation for the modern web. GSAP is a JavaScript library for creating high-performance animations that work in every major browser.
++ [D3.js](https://github.com/d3/d3): Bring data to life using SVG, Canvas and HTML. A JavaScript library for visualizing data using web standards. 3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
-+ #### SweetAlert2: Beautiful popup boxes
-   - A beautiful, responsive, customizable, accessible replacment for Javascript's Popup boxes.
-       - [Website](https://sweetalert2.github.io)
+### Javascript Libraries
 
-+ #### bxSlider: Dead simple slider
-   - Add a slider to any webpage.
-      - [Website](https://github.com/stevenwanderski/bxslider-4)
-
-+ #### Fullpage.js: Create full screen web pages fast and simple 
-   -  A simple and easy to use library to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
-       - [Website](https://github.com/alvarotrigo/fullpage.js)
-
-+ #### GSAP (GreenSock Animation Platform): High-performance animations
-   - Ultra high-performance, professional-grade animation for the modern web. GSAP is a JavaScript library for creating high-performance animations that work in every major browser.
-       - [Website](https://github.com/greensock/GreenSock-JS/)       
-       
-+ #### D3.js: Bring data to life using SVG, Canvas and HTML
-   - A JavaScript library for visualizing data using web standards. 3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
-       - [Website](https://github.com/d3/d3)
-
-### // Javascript Libraries
-
-+ #### jQuery: Fast, small, and feature-rich JS library
-   - Makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
-       - [Website](https://jquery.com/download/)
-
-+ #### Lodash:  JS Modularity, performance & extras
-    - A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
-       - [Website](https://lodash.com/)
-
-+ #### Moment.js:  Date and Time manipulation
-    - Parse, validate, manipulate, and display dates and times.
-       - [Website](https://momentjs.com/)       
++ [jQuery](https://jquery.com/download/): Fast, small, and feature-rich JS library. Makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
++ [Lodash](https://lodash.com/):  JS Modularity, performance & extras. A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
++ [Moment.js](https://momentjs.com/):  Date and Time manipulation. Parse, validate, manipulate, and display dates and times.
 
 ### // Front-end Frameworks
 
