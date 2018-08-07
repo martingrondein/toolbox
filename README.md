@@ -35,6 +35,7 @@ Guides for Git
 Quickly generator components to copy and paste into your code
 
 + [Social Media Sharing Buttons](http://sharingbuttons.io/): Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
++ [SVG Backgrounds](https://www.svgbackgrounds.com/#slanted-gradient): Create customizable, high quality SVG backgrounds
 
 ### Image Compression
 
