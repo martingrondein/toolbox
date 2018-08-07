@@ -7,16 +7,9 @@ My developer toolbox of commonly used (free) tools for website development.
 
 General guides and resources for code styling.
 
-+ [HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling](https://google.github.io/styleguide/htmlcssguide.html)
-HTML & CSS coding standards for unified maintainability.
-
-+ #### PSR-2: PHP Coding Standards
-   - PHP coding standards for unified maintainability.
-      - [Website](https://www.php-fig.org/psr/psr-2/)
-
-+ #### JavaScript Style Guide by Google: JS Coding Standards / Styling
-   - JS coding standards for a unified maintanability.
-     - [Website](https://google.github.io/styleguide/jsguide.html)
++ [HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling](https://google.github.io/styleguide/htmlcssguide.html): HTML & CSS coding standards for unified maintainability.
++ [PSR-2: PHP Coding Standards](https://www.php-fig.org/psr/psr-2/): PHP coding standards for unified maintainability.
++ [JavaScript Style Guide by Google: JS Coding Standards / Styling](https://google.github.io/styleguide/jsguide.html): JS coding standards for a unified maintanability.
 
 ## FRONT-END DEVELOPMENT
 
