@@ -1,6 +1,24 @@
 # Developer Toolbox
 My developer toolbox of commonly used (free) tools for website development.
 
+## GENERAL
+
+General guides and resources.
+
+### // Coding standards and Style Guides
+
++ ####: HTML/CSS Style Guide by Google: HTML/CSS Standards / Styling
+   - HTML & CSS coding standards for unified maintainability.
+     - [Website](https://google.github.io/styleguide/htmlcssguide.html)
+
++ #### PSR-2: PHP Coding Standards
+   - PHP coding standards for unified maintainability.
+      - [Website](https://www.php-fig.org/psr/psr-2/)
+
++ #### JavaScript Style Guide by Google: JS Coding Standards / Styling
+   - JS coding standards for a unified maintanability.
+     - [Website](https://google.github.io/styleguide/jsguide.html)
+
 ## FRONT-END DEVELOPMENT
 
 ### // Base HTML
