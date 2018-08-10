@@ -114,6 +114,13 @@ Email template boilerplates for modern email clients.
 + [Bulletproof email buttons](https://buttons.cm/): Generate solid buttons for email using progressively enhanced VML and CSS.
 + [Transactional Email Templates](https://github.com/mailgun/transactional-email-templates): Responsive transactional HTML email templates
 
+### Wordpress Theme Development
+
+Theme development with Wordpress.
+
++ [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful template for rapidly building your WordPress projects
++ [Sage](https://github.com/roots/sage): Sage is a WordPress starter theme with a modern development workflow.
+
 ---
 
 ## BACK-END DEVELOPMENT
@@ -150,13 +157,11 @@ PHP Libraries to assist in development.
 + [BotMan](https://github.com/botman/botman): BotMan is a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat.
 + [NotificationPusher](https://github.com/Ph3nol/NotificationPusher): Standalone PHP library for easy devices notifications push.
 
-### Wordpress Development
+### Wordpress Plugin Development
 
 Wordpress development boilerplates, libraries and tools.
 
 + [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
-+ [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful template for rapidly building your WordPress projects
-+ [Sage](https://github.com/roots/sage): Sage is a WordPress starter theme with a modern development workflow.
 
 ### Wordpress Tools
 
