@@ -29,6 +29,7 @@ Guides for Git
 + [Git Documentation](https://git-scm.com/docs): Git quick reference guide.
 + [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf): PDF Cheatsheet
 + [Git Visual Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;): Visual Git Cheatsheet
++ [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. 
 
 ### Component Generators
 
@@ -57,6 +58,10 @@ What to code in
 Always document. Always.
 
 + [Atomic Docs](http://atomicdocs.io/): A style guide generator and component manager. Generate beautiful docs from your code.
+
+### Hosting
+
++ [.htaccess Snippets](https://github.com/phanan/htaccess): A collection of useful .htaccess snippets, all in one place.
 
 ## FRONT-END DEVELOPMENT
 
@@ -125,6 +130,9 @@ Theme development with Wordpress.
 
 ## BACK-END DEVELOPMENT
 
+### PHP General
++ [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
 ###  PHP Frameworks
 
 Open source PHP Frameworks.
@@ -159,10 +167,16 @@ PHP Libraries to assist in development.
 
 ### PHP Articles
 
+PHP Articles worth reading
+
 + [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software): This guide should serve as a complement to the e-book, PHP: The Right Way, with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 + [PHP The Right Way](https://www.phptherightway.com/): PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
 
+### APIs
 
+APIs worth using
+
++[Public APIs](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in web development.
 
 ### Wordpress Plugin Development
 
@@ -176,3 +190,4 @@ Wordpress development tools to streamline development.
 
 + [wp-cli](https://github.com/wp-cli/wp-cli): WP-CLI is the command-line interface for WordPress. You can update plugins, configure multisite installs and much more, without using a web browser.
 + [Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB): This script was made to aid the process of migrating PHP and MySQL based websites.
++ [WordPress Toolbox](https://github.com/emersonthis/wordpress-snippets): A collection of Wordpress code snippets
