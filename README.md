@@ -157,6 +157,13 @@ PHP Libraries to assist in development.
 + [BotMan](https://github.com/botman/botman): BotMan is a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat.
 + [NotificationPusher](https://github.com/Ph3nol/NotificationPusher): Standalone PHP library for easy devices notifications push.
 
+### PHP Articles
+
++ [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software): This guide should serve as a complement to the e-book, PHP: The Right Way, with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
++ [PHP The Right Way](https://www.phptherightway.com/): PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
+
+
+
 ### Wordpress Plugin Development
 
 Wordpress development boilerplates, libraries and tools.
