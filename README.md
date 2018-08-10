@@ -61,18 +61,18 @@ Always document. Always.
 
 ### Hosting
 
+Hosting resources.
+
 + [.htaccess Snippets](https://github.com/phanan/htaccess): A collection of useful .htaccess snippets, all in one place.
 
 ## FRONT-END DEVELOPMENT
 
-### Base HTML Templates
+### HTML Templates
 
 Base HTML stuff for hitting the floor running.
 
 + [HTML5 Boilerplate](https://html5boilerplate.com): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. Comes with jQuery, Modernizr, Normalize.css. 
 + [HEAD](https://github.com/joshbuchea/HEAD): A list of everything that *could* go in the <head> of your document
-       
-### Other Templates
 + [Start Bootstrap](https://github.com/BlackrockDigital/startbootstrap): A library of free and open source Bootstrap themes and templates 
 
 ### UI / UX Libraries
@@ -131,6 +131,9 @@ Theme development with Wordpress.
 ## BACK-END DEVELOPMENT
 
 ### PHP General
+
+General resource for PHP development.
+
 + [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ###  PHP Frameworks
@@ -167,14 +170,14 @@ PHP Libraries to assist in development.
 
 ### PHP Articles
 
-PHP Articles worth reading
+PHP Articles worth reading.
 
 + [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software): This guide should serve as a complement to the e-book, PHP: The Right Way, with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 + [PHP The Right Way](https://www.phptherightway.com/): PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
 
 ### APIs
 
-APIs worth using
+APIs worth using.
 
 +[Public APIs](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in web development.
 
