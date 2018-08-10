@@ -134,6 +134,21 @@ PHP Libraries to assist in development.
 + [Goutte](https://github.com/FriendsOfPHP/Goutte): Web Scraping Library. Goutte is a library for scraping websites and extracting data. It provides a nice API that makes it easy to select specific elements from the remote pages.       
 + [Validation](https://github.com/Respect/Validation): Input Validation Library. The most awesome validation engine ever created for PHP.
 + [TCPDF](https://github.com/tecnickcom/tcpdf): PDF Generation Library. PHP library for generating PDF documents on-the-fly.
++ [Google APIs Client Library for PHP](https://github.com/google/google-api-php-client): The Google API Client Library enables you to work with Google APIs such as Google+, Drive, or YouTube on your server.
++ [https://gist.github.com/itspriddle/845016](https://gist.github.com/itspriddle/845016): A pure PHP json library
++ [Geocoder](https://github.com/geocoder-php/Geocoder): Geocoder is a PHP library which helps you build geo-aware applications by providing a powerful abstraction layer for geocoding manipulations.
++ [PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
++ [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet): A pure PHP library for reading and writing spreadsheet files
++ [Valitron: Easy Validation That Doesn't Suck](https://github.com/vlucas/valitron): Valitron is a simple, minimal and elegant stand-alone validation library with NO dependencies. Valitron uses simple, straightforward validation methods with a focus on readable and concise syntax. 
++ [EmailValidator](https://github.com/egulias/EmailValidator): PHP Email validator library
++ [reCAPTCHA PHP client library](https://github.com/google/recaptcha): PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse
++ [libphonenumber for PHP](https://github.com/giggsey/libphonenumber-for-php): HP version of Google's phone number handling library 
++ [TwitterOAuth](https://github.com/abraham/twitteroauth): The most popular PHP library for Twitter's OAuth REST API.
++ [php-emoji - Process Emoji in PHP](https://github.com/iamcal/php-emoji): A PHP Emoji conversion library
++ [device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
++ [stripe-php](https://github.com/stripe/stripe-php): PHP library for the Stripe API.
++ [BotMan](https://github.com/botman/botman): BotMan is a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat.
++ [NotificationPusher](https://github.com/Ph3nol/NotificationPusher): Standalone PHP library for easy devices notifications push.
 
 ### Wordpress Development
 
@@ -141,3 +156,11 @@ Wordpress development boilerplates, libraries and tools.
 
 + [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 + [WordPress Boilerplate Theme (HTML 5 Blank)](https://github.com/html5blank/html5blank): Powerful template for rapidly building your WordPress projects
++ [Sage](https://github.com/roots/sage): Sage is a WordPress starter theme with a modern development workflow.
+
+### Wordpress Tools
+
+Wordpress development tools to streamline development.
+
++ [wp-cli](https://github.com/wp-cli/wp-cli): WP-CLI is the command-line interface for WordPress. You can update plugins, configure multisite installs and much more, without using a web browser.
++ [Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB): This script was made to aid the process of migrating PHP and MySQL based websites.
