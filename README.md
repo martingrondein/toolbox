@@ -179,7 +179,7 @@ PHP Articles worth reading.
 
 APIs worth using.
 
-+[Public APIs](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in web development.
++ [Public APIs](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in web development.
 
 ### Wordpress Plugin Development
 
