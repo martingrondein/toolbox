@@ -3,9 +3,9 @@ My toolbox of commonly used (free) developer tools for web development.
 
 ## TOC
 
-1) [GENERAL](/#1-general)
-+ 1.1) [Coding Standards and Style Guides](/#11-coding-standards-and-style-guides)
-+ 1.2) [Coding Fonts](/12-coding-fonts)
+1) [GENERAL](./#1-general)
++ 1.1) [Coding Standards and Style Guides](./#11-coding-standards-and-style-guides)
++ 1.2) [Coding Fonts](./12-coding-fonts)
 
 ## 1) GENERAL
 
