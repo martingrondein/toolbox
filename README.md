@@ -1,9 +1,9 @@
 # Web Development Toolbox
 My toolbox of commonly used (free) developer tools for web development.
 
-## GENERAL
+## 1) GENERAL
 
-### Coding Standards and Style Guides
+### 1.1) Coding Standards and Style Guides
 
 General guides and resources for code styling.
 
@@ -11,7 +11,7 @@ General guides and resources for code styling.
 + [PSR-2](https://www.php-fig.org/psr/psr-2/): PHP coding standards for unified maintainability and readability.
 + [JavaScript Style Guide by Google](https://google.github.io/styleguide/jsguide.html): JS coding standards for a unified maintanability and readability.
 
-### Coding Fonts
+### 1.2) Coding Fonts
 
 Fonts for your IDE/Editor
 
@@ -20,7 +20,7 @@ Fonts for your IDE/Editor
 + [Source Code Pro](https://github.com/adobe-fonts/source-code-pro): Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 + [FiraCode](https://github.com/tonsky/FiraCode): Monospaced font with programming ligatures
 
-### Git
+### 1.3) Git
 
 Guides for Git
 
@@ -31,7 +31,7 @@ Guides for Git
 + [Git Visual Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;): Visual Git Cheatsheet
 + [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. 
 
-### Component Generators
+### 1.4) Component Generators
 
 Quickly generator components to copy and paste into your code
 
@@ -39,7 +39,7 @@ Quickly generator components to copy and paste into your code
 + [SVG Backgrounds](https://www.svgbackgrounds.com/#slanted-gradient): Create customizable, high quality SVG backgrounds.
 + [Cookie Consent](https://cookieconsent.insites.com/download/): Generate GDPR compliant banners for websites. 
 
-### Image Compression
+### 1.5) Image Compression
 
 Optimize your image assets
 
@@ -47,28 +47,28 @@ Optimize your image assets
 + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI):  ImageOptim-CLI exists because the current benchmarks suggest that ImageOptim, ImageAlpha and JPEGmini currently outperform those alternatives over lossless and lossy optimizations. A self-contained executable binary, you don't need Node.js installed to use ImageOptim-CLI.
 + [FileOptimzer](https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/): Smart detection of file types by analyzing its contents, no matter of what extension they have.
 
-### Code Editors
+### 1.6) Code Editors
 
 What to code in
 
 + [Visual Studio Code](https://code.visualstudio.com/): Reliable code editor that is free, open source and runs everywhere.
 + [Notepad++](https://notepad-plus-plus.org/): A good Notepad replacement.
 
-### Documentation
+### 1.7) Documentation
 
 Always document. Always.
 
 + [Atomic Docs](http://atomicdocs.io/): A style guide generator and component manager. Generate beautiful docs from your code.
 
-### Hosting
+### 1.8) Hosting
 
 Hosting resources.
 
 + [.htaccess Snippets](https://github.com/phanan/htaccess): A collection of useful .htaccess snippets, all in one place.
 
-## FRONT-END DEVELOPMENT
+## 2) FRONT-END DEVELOPMENT
 
-### HTML Templates
+### 2.1) HTML Templates
 
 Base HTML stuff for hitting the floor running.
 
@@ -76,7 +76,7 @@ Base HTML stuff for hitting the floor running.
 + [HEAD](https://github.com/joshbuchea/HEAD): A list of everything that *could* go in the <head> of your document
 + [Start Bootstrap](https://github.com/BlackrockDigital/startbootstrap): A library of free and open source Bootstrap themes and templates 
 
-### UI / UX Libraries
+### 2.2) UI / UX Libraries
 
 Components for aiding in UX / UI features.
 
@@ -88,7 +88,7 @@ Components for aiding in UX / UI features.
 + [GSAP (GreenSock Animation Platform)](https://github.com/greensock/GreenSock-JS/): High-performance animations. Ultra high-performance, professional-grade animation for the modern web. GSAP is a JavaScript library for creating high-performance animations that work in every major browser.
 + [D3.js](https://github.com/d3/d3): Bring data to life using SVG, Canvas and HTML. A JavaScript library for visualizing data using web standards. 3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
-### Javascript Libraries
+### 2.3) Javascript Libraries
 
 Common Javascript libraries to make your life easier.
 
@@ -96,21 +96,21 @@ Common Javascript libraries to make your life easier.
 + [jQuery](https://jquery.com/download/): Fast, small, and feature-rich JS library. Makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 + [Lodash](https://lodash.com/):  JS Modularity, performance & extras. A modern JavaScript utility library delivering modularity, performance & extras. Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
 
-### Front-end Frameworks
+### 2.4) Front-end Frameworks
 
 Responsive front-end frameworks for the modern web.
 
 + [Bootstrap](https://getbootstrap.com): Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 + [Materialize](https://materializecss.com): A modern responsive front-end framework based on Material Design
 
-### Mobile Frameworks
+### 2.5) Mobile Frameworks
 
 Mobile frameworks ideal for hybrid mobile Android / iOS apps.
 
 + [Framework 7](https://framework7.io): Full featured HTML framework for building iOS & Android apps
 + [Ionic](https://ionicframework.com): Build amazing apps in one codebase, for any platform, with the web.
        
-### Emails
+### 2.6) Emails
 
 Email template boilerplates for modern email clients.
 
@@ -120,7 +120,7 @@ Email template boilerplates for modern email clients.
 + [Bulletproof email buttons](https://buttons.cm/): Generate solid buttons for email using progressively enhanced VML and CSS.
 + [Transactional Email Templates](https://github.com/mailgun/transactional-email-templates): Responsive transactional HTML email templates
 
-### Wordpress Theme Development
+### 2.7) Wordpress Theme Development
 
 Theme development with Wordpress.
 
@@ -129,15 +129,15 @@ Theme development with Wordpress.
 
 ---
 
-## BACK-END DEVELOPMENT
+## 3) BACK-END DEVELOPMENT
 
-### PHP General
+### 3.1) PHP General
 
 General resource for PHP development.
 
 + [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
-###  PHP Frameworks
+###  3.2) PHP Frameworks
 
 Open source PHP Frameworks.
 
@@ -145,7 +145,7 @@ Open source PHP Frameworks.
 + [Joomla](https://downloads.joomla.org): Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
 + [Wordpress](https://wordpress.org/download): Use the software that powers over 31% of the web.
 
-### PHP Libraries
+### 3.3) PHP Libraries
 
 PHP Libraries to assist in development.
 
@@ -169,26 +169,26 @@ PHP Libraries to assist in development.
 + [BotMan](https://github.com/botman/botman): BotMan is a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat.
 + [NotificationPusher](https://github.com/Ph3nol/NotificationPusher): Standalone PHP library for easy devices notifications push.
 
-### PHP Articles
+### 3.4) PHP Articles
 
 PHP Articles worth reading.
 
 + [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software): This guide should serve as a complement to the e-book, PHP: The Right Way, with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 + [PHP The Right Way](https://www.phptherightway.com/): PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
 
-### APIs
+### 3.5) APIs
 
 APIs worth using.
 
 + [Public APIs](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in web development.
 
-### Wordpress Plugin Development
+### 3.6) Wordpress Plugin Development
 
 Wordpress development boilerplates, libraries and tools.
 
 + [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
-### Wordpress Tools
+### 3.7) Wordpress Tools
 
 Wordpress development tools to streamline development.
 
