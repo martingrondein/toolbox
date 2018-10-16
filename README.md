@@ -1,11 +1,21 @@
 # Web Development Toolbox
 My toolbox of commonly used (free) developer tools for web development.
 
-## TOC
+## Table of Contents
 
 1) [GENERAL](#1-general)
 + 1.1) [Coding Standards and Style Guides](#11-coding-standards-and-style-guides)
 + 1.2) [Coding Fonts](#12-coding-fonts)
++ 1.3) [Git](#13-git)
++ 1.4) [Component Generators](#14-component-generators)
++ 1.5) [Image Compression](#15-image-compression)
++ 1.6) [Code Editors](#16-code-editors)
++ 1.7) [Documentation](#17-documentation)
++ 1.8) [Hosting](#18-hosting)
+
+2) [FRONT-END DEVELOPMENT](#2-front-end-development)
+
+-
 
 ## 1) GENERAL
 
