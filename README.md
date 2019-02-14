@@ -4,7 +4,7 @@ A toolbox of commonly used (free) developer tools for web development.
 
 ## Table of Contents
 
-1) [GENERAL](#1-general)
+**1) [GENERAL](#1-general)**
 + 1.1) [Coding Standards and Style Guides](#11-coding-standards-and-style-guides)
 + 1.2) [Coding Fonts](#12-coding-fonts)
 + 1.3) [Git](#13-git)
@@ -14,13 +14,13 @@ A toolbox of commonly used (free) developer tools for web development.
 + 1.7) [Documentation](#17-documentation)
 + 1.8) [Hosting](#18-hosting)
 
-2) [FRONT-END DEVELOPMENT](#2-front-end-development)
+**2) [FRONT-END DEVELOPMENT](#2-front-end-development)**
 + 2.1) [HTML Templates](#21-html-templates)
 + 2.2) [UI / UX Libraries](#22-ui--ux-libraries)
 
 ...
 
-3) [BACK-END DEVELOPMENT](#3-back-end-development)
+**3) [BACK-END DEVELOPMENT](#3-back-end-development)**
 + 3.1) [PHP General](#31-php-general)
 
 ...
