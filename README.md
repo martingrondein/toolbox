@@ -159,7 +159,7 @@ Theme development with Wordpress.
 ### 3.1) PHP General
 
 General resource for PHP development.
-
++ [PHP](http://www.php.net): PHP Development language. *Minimum Recommended Version: 7.3*
 + [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ###  3.2) PHP Frameworks
