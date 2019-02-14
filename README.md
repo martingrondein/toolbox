@@ -4,6 +4,9 @@ A toolbox of commonly used (free) developer tools for web development.
 
 ## Table of Contents
 
+**0) [OPERATING SYSTEM](#0-operating-system)**
++ 0.1) [Hot Tip](#01-hot-tip)
+
 **1) [GENERAL](#1-general)**
 + 1.1) [Coding Standards and Style Guides](#11-coding-standards-and-style-guides)
 + 1.2) [Coding Fonts](#12-coding-fonts)
@@ -26,6 +29,14 @@ A toolbox of commonly used (free) developer tools for web development.
 ...
 
 ---
+
+## 0) OPERATING SYSTEM
+
+### 0.1) Hot Tip
+
+**Windows** is fine for web development. Will get the job done.
+**MacOS** is slightly better. As it's closer to Linux.
+*But, **Ubuntu** is preferred.* Everything just works!
 
 ## 1) GENERAL
 
@@ -227,4 +238,4 @@ Wordpress development tools to streamline development.
 
 Drupal development tools to streamline development.
 
-+[Drush](https://www.drush.org/): A command line shell for Drupal
++ [Drush](https://www.drush.org/): A command line shell for Drupal
