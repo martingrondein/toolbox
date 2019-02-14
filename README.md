@@ -1,5 +1,6 @@
 # Web Development Toolbox
 A toolbox of commonly used (free) developer tools for web development.
+***Updated: 14 February 2019***
 
 ## Table of Contents
 
@@ -125,7 +126,7 @@ Common Javascript libraries to make your life easier.
 
 Responsive front-end frameworks for the modern web.
 
-+ [Bootstrap](https://getbootstrap.com): Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
++ [Bootstrap](https://getbootstrap.com): Build responsive, mobile-first projects on the web with the world's most popular front-end component library. ***Minimum Recommended Version: 4.3***
 + [Materialize](https://materializecss.com): A modern responsive front-end framework based on Material Design
 
 ### 2.5) Mobile Frameworks
@@ -159,16 +160,16 @@ Theme development with Wordpress.
 ### 3.1) PHP General
 
 General resource for PHP development.
-+ [PHP](http://www.php.net): PHP Development language. *Minimum Recommended Version: 7.3*
++ [PHP](http://www.php.net): PHP Development language. ***Minimum Recommended Version: 7.3***
 + [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ###  3.2) PHP Frameworks
 
 Open source PHP Frameworks.
 
-+ [Drupal](https://www.drupal.org/download): Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need.
-+ [Joomla](https://downloads.joomla.org): Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
-+ [Wordpress](https://wordpress.org/download): Use the software that powers over 31% of the web.
++ [Drupal](https://www.drupal.org/download): Drupal bundled with additional projects such as themes, modules, libraries, and installation profiles. They give you a head start on building the type of site you need. ***Minimum Recommended Version: 8.6***
++ [Joomla](https://downloads.joomla.org): Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications. ***Minimum Recommended Version: 3.9***
++ [Wordpress](https://wordpress.org/download): Use the software that powers over 31% of the web. ***Minimum Recommended Version: 5.0***
 
 ### 3.3) PHP Libraries
 
