@@ -161,6 +161,7 @@ Theme development with Wordpress.
 
 General resource for PHP development.
 + [PHP](http://www.php.net): PHP Development language. ***Minimum Recommended Version: 7.3***
++ [Composer](https://getcomposer.org/): Dependency manager for PHP
 + [Awesome PHP](https://github.com/ziadoz/awesome-php#readme): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ###  3.2) PHP Frameworks
@@ -221,3 +222,9 @@ Wordpress development tools to streamline development.
 + [wp-cli](https://github.com/wp-cli/wp-cli): WP-CLI is the command-line interface for WordPress. You can update plugins, configure multisite installs and much more, without using a web browser.
 + [Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB): This script was made to aid the process of migrating PHP and MySQL based websites.
 + [WordPress Toolbox](https://github.com/emersonthis/wordpress-snippets): A collection of Wordpress code snippets
+
+### 3.8) Drupal Tools
+
+Drupal development tools to streamline development.
+
++[Drush](https://www.drush.org/): A command line shell for Drupal
