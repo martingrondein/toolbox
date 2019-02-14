@@ -34,9 +34,9 @@ A toolbox of commonly used (free) developer tools for web development.
 
 ### 0.1) Hot Tip
 
-**Windows** is fine for web development. Will get the job done.
-**MacOS** is slightly better. As it's closer to Linux.
-*But, **Ubuntu** is preferred.* Everything just works!
++ **Windows** is fine for web development. Will get the job done.
++ **MacOS** is slightly better. As it's closer to Linux.
++ **Ubuntu** is preferred. Everything just works!
 
 ## 1) GENERAL
 
