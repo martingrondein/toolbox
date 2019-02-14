@@ -1,5 +1,5 @@
 # Web Development Toolbox
-My toolbox of commonly used (free) developer tools for web development.
+A toolbox of commonly used (free) developer tools for web development.
 
 ## Table of Contents
 
@@ -14,6 +14,13 @@ My toolbox of commonly used (free) developer tools for web development.
 + 1.8) [Hosting](#18-hosting)
 
 2) [FRONT-END DEVELOPMENT](#2-front-end-development)
++ 2.1) [HTML Templates](#21-html-templates)
++ 2.2) [UI / UX Libraries](#22-ui--ux-libraries)
+...
+
+3) [BACK-END DEVELOPMENT](#3-back-end-development)
++ 3.1) [PHP General](#31-php-general)
+...
 
 -
 
